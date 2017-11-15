@@ -12,4 +12,3 @@ Candidate Swift library for an alternative solution to replace both mac / linux 
   ], 
 ```
 
-The scripts will automatically fix the missing links of pkg-config when `swift build`
